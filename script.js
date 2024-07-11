@@ -87,7 +87,7 @@ class SudokuSolver
                             }
                             else
                             {
-                                board[row][col] = 0;
+                                board[i][j] = 0;
                             }
                         }
                     }
